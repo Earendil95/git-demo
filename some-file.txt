@@ -1,4 +1,4 @@
 Hello first git repo!
 This is the second line
 
-Here are changes from master
+Here are changes from master, and here are the changes from new branch
