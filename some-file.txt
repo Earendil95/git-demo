@@ -1,2 +1,4 @@
 Hello first git repo!
 This is the second line
+
+We have a new branch, and here are the changes
